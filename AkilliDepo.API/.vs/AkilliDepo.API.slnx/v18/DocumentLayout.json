@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\managers\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\dtos\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\dtos\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\managers\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\managers\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\akillidepo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\akillidepo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Migrations\\20260310213352_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AkilliDepo.API\\Migrations\\20260310213352_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\entities\\warehousezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\entities\\warehousezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|c:\\users\\koray\\source\\repos\\akillidepo.api\\akillidepo.api\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61099CF-7FC3-4AEC-953D-6A4359A5A66B}|AkilliDepo.API\\AkilliDepo.API.csproj|solutionrelative:akillidepo.api\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Managers\\ProductManager.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\Managers\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Managers\\ProductManager.cs",
+              "RelativeToolTip": "AkilliDepo.API\\Managers\\ProductManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:42:09.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\DTOs\\PagedResult.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\DTOs\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\DTOs\\PagedResult.cs",
+              "RelativeToolTip": "AkilliDepo.API\\DTOs\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:40:58.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\DTOs\\ProductDtos.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\DTOs\\ProductDtos.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\DTOs\\ProductDtos.cs",
+              "RelativeToolTip": "AkilliDepo.API\\DTOs\\ProductDtos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:39:39.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AkilliDepo.API",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\AkilliDepo.API.csproj",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\AkilliDepo.API.csproj",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\AkilliDepo.API.csproj",
+              "RelativeToolTip": "AkilliDepo.API\\AkilliDepo.API.csproj",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwPRIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T21:14:52.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Program.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Program.cs",
+              "RelativeToolTip": "AkilliDepo.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:30:07.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "AkilliDepo.API\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:35:54.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "AkilliDepo.API\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAywB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:36:23.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Managers\\IProductManager.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\Managers\\IProductManager.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Managers\\IProductManager.cs",
+              "RelativeToolTip": "AkilliDepo.API\\Managers\\IProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:41:44.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AkilliDepo.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:48:02.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260310213352_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Migrations\\20260310213352_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\Migrations\\20260310213352_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Migrations\\20260310213352_InitialCreate.cs",
+              "RelativeToolTip": "AkilliDepo.API\\Migrations\\20260310213352_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:33:52.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\appsettings.json",
+              "RelativeToolTip": "AkilliDepo.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T21:27:44.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AkilliDepo.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:26:44.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Entities\\InventoryTransaction.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\Entities\\InventoryTransaction.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Entities\\InventoryTransaction.cs",
+              "RelativeToolTip": "AkilliDepo.API\\Entities\\InventoryTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:18:38.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WarehouseZone.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Entities\\WarehouseZone.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\Entities\\WarehouseZone.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Entities\\WarehouseZone.cs",
+              "RelativeToolTip": "AkilliDepo.API\\Entities\\WarehouseZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:18:04.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Entities\\Product.cs",
+              "RelativeToolTip": "AkilliDepo.API\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:17:03.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AkilliDepo.API\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Koray\\source\\repos\\AkilliDepo.API\\AkilliDepo.API\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "AkilliDepo.API\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:16:23.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
